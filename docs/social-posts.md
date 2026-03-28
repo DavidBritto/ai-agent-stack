@@ -1,6 +1,6 @@
 # Social Media Posts — AI Agent Stack
 
-Reemplazar `TU_USER` con tu usuario de GitHub en todos los textos.
+Usuario GitHub: **DavidBritto**
 
 ---
 
@@ -31,7 +31,7 @@ I built an open-source stack that adds what I think Claude Code and OpenCode are
 
 Works with both Claude Code and OpenCode. One command install.
 
-GitHub: https://github.com/TU_USER/ai-agent-stack
+GitHub: https://github.com/DavidBritto/ai-agent-stack
 
 Happy to answer questions about any of the components.
 ```
@@ -53,7 +53,7 @@ Just open-sourced my AI agent stack 🧵
 
 + Langfuse, Qdrant, Redis, NATS — all self-hosted
 
-github.com/TU_USER/ai-agent-stack
+github.com/DavidBritto/ai-agent-stack
 
 #ClaudeCode #OpenCode #AI #OpenSource
 ```
@@ -85,7 +85,7 @@ What it adds:
 All services run locally via Docker Compose. Compatible with Claude Code (bash hooks)
 and OpenCode (TypeScript plugin). One-command install.
 
-https://github.com/TU_USER/ai-agent-stack
+https://github.com/DavidBritto/ai-agent-stack
 ```
 
 ---
@@ -106,7 +106,7 @@ the main things it solves:
 
 100% self-hosted, works with both Claude Code and OpenCode, one-command install
 
-https://github.com/TU_USER/ai-agent-stack
+https://github.com/DavidBritto/ai-agent-stack
 
 lmk if you run into anything
 ```
@@ -135,7 +135,7 @@ Lo que incluye:
 Todo corre local con Docker Compose. Compatible con Claude Code y OpenCode.
 Instalación en un comando.
 
-https://github.com/TU_USER/ai-agent-stack
+https://github.com/DavidBritto/ai-agent-stack
 
 #AI #OpenSource #ClaudeCode #DevTools #SelfHosted
 ```

@@ -1,0 +1,15 @@
+# Secrets — never commit
+infra/.env
+config/budget.json
+config/model-stats.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (OpenCode plugin dev)
+node_modules/
+*.lock
+
+# Logs
+*.log

@@ -1,0 +1,11 @@
+{
+  "default_session_usd": 5.00,
+  "default_monthly_usd": 50.00,
+  "projects": {
+    "my-project": { "session_usd": 10.00, "monthly_usd": 100.00 }
+  },
+  "alerts": {
+    "warn_pct": 80,
+    "hard_stop_pct": 100
+  }
+}

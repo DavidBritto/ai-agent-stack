@@ -12,11 +12,6 @@
 **The most complete open-source AI orchestration stack.**
 Self-hosted · Observable · Self-improving · Works with Claude Code & OpenCode
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Works with Claude Code](https://img.shields.io/badge/Claude%20Code-compatible-blueviolet)](https://claude.ai/code)
-[![Works with OpenCode](https://img.shields.io/badge/OpenCode-compatible-blue)](https://opencode.ai)
-[![Self-hosted](https://img.shields.io/badge/100%25-self--hosted-green)]()
-
 </div>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
